@@ -1,8 +1,8 @@
 // Your First Program
 
-class HelloAfternoon {
+class HelloMorning {
     public static void main(String[] args) {
-        System.out.println("Hello, Afternoon!"); 
+        System.out.println("Hello, Morning!"); 
     }
 }
 
