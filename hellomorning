@@ -1,0 +1,8 @@
+// Your First Program
+
+class HelloMorning {
+    public static void main(String[] args) {
+        System.out.println("Hello, Morning!"); 
+    }
+}
+
